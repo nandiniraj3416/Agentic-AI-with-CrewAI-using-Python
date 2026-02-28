@@ -1,0 +1,20 @@
+# Core CrewAI packages
+crewai==0.28.0
+crewai-tools==0.1.6
+
+# LLM Integration
+openai==1.30.1
+langchain==0.1.14
+langchain-openai==0.0.5
+
+# Environment variables
+python-dotenv==1.0.0
+
+# Core dependencies
+pydantic==2.6.4
+pydantic-settings==2.1.0
+requests==2.31.0
+
+# Streamlit Dashboard
+streamlit==1.28.1
+streamlit-lottie==0.0.5
